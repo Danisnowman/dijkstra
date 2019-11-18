@@ -32,7 +32,7 @@ docker run -it dijkstra:latest
 
 ```
 
-### 1. Using Python
+### 2. Using Python
 
 Running the app:
 
