@@ -1,0 +1,12 @@
+# Ignore everything
+**
+
+# Allow files and directories
+!/graph.txt
+!/app.py
+
+# Ignore unnecessary files inside allowed directories
+# This should go after the allowed directories
+**/*~
+**/*.log
+**/.DS_Store
